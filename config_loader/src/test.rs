@@ -1,6 +1,6 @@
 #[cfg(test)]
 mod tests {
-    use super::*; 
+    use super::*;
     use crate::loader::ConfigLoader;
     #[test]
     fn test_config_loading_defaults() {

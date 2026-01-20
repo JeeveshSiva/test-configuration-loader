@@ -1,7 +1,6 @@
 use serde::{Deserialize, Serialize};
 
-
-#[derive(Debug,Serialize,Deserialize)]
+#[derive(Debug, Serialize, Deserialize)]
 pub struct AppConfig {
     pub app_name: String,
     pub ip: String,
