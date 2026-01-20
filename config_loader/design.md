@@ -48,3 +48,14 @@ Our error type includes:
 2.IP address fields must parse as valid network addresses.
 
 3.Port values must be non‑zero.
+
+
+## 🔁 5. To run and Test:
+
+To run:
+
+cargo run
+
+To test:
+
+cargo test
